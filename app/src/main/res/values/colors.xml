@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_charcoal">#1A1A1A</color>
+    <color name="hp_red">#FF3366</color>
+    <color name="bg_dark">#1A1A1A</color>
+    <color name="overlay_dark">#99000000</color>
+    <color name="mp_blue">#00E5FF</color>
+    <color name="exp_green">#00FF66</color>
+    <color name="white_pure">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
