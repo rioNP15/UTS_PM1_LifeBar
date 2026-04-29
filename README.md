@@ -4,8 +4,8 @@ Repositori ini berisi *source code* untuk proyek Ujian Tengah Semester (UTS) mat
 
 ## 👨‍💻 Solo Developer
 * **Nama:** Rio Nugraha Putra
-* **NPM:** (Isi dengan NPM kamu di sini)
-* **Kelas:** TIF RP 24E CNS & TIF RM 24A
+* **NIM:** (24552011060)
+* **Kelas:** TIF RP 24E CNS
 
 ## 📱 Tentang Aplikasi
 **LifeBar** adalah sebuah aplikasi *habit tracker* berbasis *gamifikasi Role-Playing Game* (RPG). Aplikasi ini dirancang untuk memotivasi pengguna menyeimbangkan produktivitas kerja dan kesehatan fisik melalui sistem manajemen energi virtual.
